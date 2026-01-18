@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" width="100%">
-  alt="Typing SVG"/>
+
 </div>
 
 <br>
