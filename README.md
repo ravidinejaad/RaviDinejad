@@ -64,3 +64,9 @@
 
 <h2 align="center">GitHub Contributions </h2>
 <p align="center"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /></p>
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
