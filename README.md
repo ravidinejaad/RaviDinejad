@@ -2,7 +2,8 @@
 
 
 <div align="center">
-![killua-hunter-x-hunter](https://github.com/user-attachments/assets/a9cc39ab-1e17-4698-a4a5-ded9879517dd)
+
+  <img src="https://github.com/user-attachments/assets/a9cc39ab-1e17-4698-a4a5-ded9879517dd" alt="killua-hunter-x-hunter" width="400">
 
 </div>
 
